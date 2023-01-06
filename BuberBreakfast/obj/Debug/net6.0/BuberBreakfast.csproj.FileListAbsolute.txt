@@ -5,16 +5,11 @@ D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.deps.j
 D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.runtimeconfig.json
 D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.dll
 D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.pdb
-D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.csproj.AssemblyReference.cache
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.AssemblyInfoInputs.cache
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.AssemblyInfo.cs
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.csproj.CoreCompileInputs.cache
-D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.MvcApplicationPartsAssemblyInfo.cs
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.MvcApplicationPartsAssemblyInfo.cache
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets.build.json
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\staticwebassets.development.json
@@ -25,3 +20,6 @@ D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\refint\BuberBreakfast
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.pdb
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\BuberBreakfast.genruntimeconfig.cache
 D:\Projects\BuberBreakfast\BuberBreakfast\obj\Debug\net6.0\ref\BuberBreakfast.dll
+D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.Contracts.dll
+D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\BuberBreakfast.Contracts.pdb
+D:\Projects\BuberBreakfast\BuberBreakfast\bin\Debug\net6.0\ErrorOr.dll
